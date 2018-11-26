@@ -7,28 +7,56 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://$MODULE_DIR$/02-views/blade-parte1/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
-          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
-          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/01-Controladores/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
-          <root url="phar://$MODULE_DIR$/01-Controladores/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
-          <root url="phar://$MODULE_DIR$/02-views/views/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
-          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
-          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
           <root url="phar://$MODULE_DIR$/02-views/blade-parte1/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte2-soft-deleting/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte2-soft-deleting/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/07-ValidacaoFormularios/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte1/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/01-Controladores/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte1/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/04-queries/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/03-migracoes/migracoes-a/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/04-queries/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/07-ValidacaoFormularios/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/03-migracoes/migracoes-a/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/06-Cadastro/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/08-cadastro-produtos-inicial/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/blade-parte1/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/08-cadastro-produtos-inicial/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/02-views/views/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/views/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/06-Cadastro/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar://$MODULE_DIR$/02-views/blade-parte1/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
-          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
-          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/01-Controladores/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
-          <root url="phar://$MODULE_DIR$/01-Controladores/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
-          <root url="phar://$MODULE_DIR$/02-views/views/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
-          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
-          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
           <root url="phar://$MODULE_DIR$/02-views/blade-parte1/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte2-soft-deleting/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte2-soft-deleting/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/07-ValidacaoFormularios/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte1/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/01-Controladores/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/05-eloquent-orm/parte1/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/04-queries/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/03-migracoes/migracoes-a/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/04-queries/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/07-ValidacaoFormularios/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/03-migracoes/migracoes-a/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/06-Cadastro/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/08-cadastro-produtos-inicial/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/blade-parte1/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/08-cadastro-produtos-inicial/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/blade-parte2/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
           <root url="phar://$MODULE_DIR$/02-views/views/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/02-views/views/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/00-rotas/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-3.0.3.phar/" />
+          <root url="phar://$MODULE_DIR$/06-Cadastro/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
